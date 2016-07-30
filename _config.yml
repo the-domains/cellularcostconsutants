@@ -1,0 +1,28 @@
+name: cellularcostconsutants
+favicon: null
+layout_spectrum: 0.23269704496487975
+typography_spectrum: 0.7057250286452472
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.17748136958107352
+  lightness: 0.06797175528481603
+  saturation: 0.41534487274475396
+  rhythmicContrast: 0.6753160883672535
+purpose: []
